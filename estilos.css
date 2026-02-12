@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+* {
+    color: blue
+}
+
+h3 {
+    color: rgb(17, 196, 79);
+    text-align: center;
+}
